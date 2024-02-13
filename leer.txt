@@ -1,0 +1,17 @@
+1.- npm install
+2.- npm start
+
+3.- mirar el componente https://reactrouter.com/en/main es de React Router DOM v6
+
+4.- src/users.js listado de datos de ejemplo
+5.- Adaptarlo para que se coja de una bd
+
+6.- partiendo del esquelo inicial de react npx-create-app proyecto me quedo solo con index.js dentro de src
+7.- Modifico el index.js para dejarlo lo mas simple posible
+
+8.- Instalo la libreria: npm install react-router-dom
+9.- Inicializo mi proyecto: npm start
+
+10.- Defino los ficheros de la carpeta routes, todos son componentes
+
+11.- Creo el fichero layout.jsx para crear un menu superior para moverme por las rutas
