@@ -7,6 +7,7 @@ export function User() {
   //llamo a la funcion definida en users.js
   //const params = useParams();
   //const user = getUser(parseInt(params.userId);
+  //el simbolo + convierte el parametro a número
   const user = getUser(+userId);
 
   //hook useNavigate para redirigir a una pagina cuando se haga en este caso la operacion de borrar un usuario
